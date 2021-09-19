@@ -36,7 +36,7 @@ public:
 	{
 		this->age = age;
 	}
-
+	
 	//		Constructors
 
 	Human(const string& last_name, const string& first_name, unsigned int age)
